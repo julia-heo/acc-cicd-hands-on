@@ -47,3 +47,4 @@ jobs:
         script: |
           sh /home/ubuntu/srv/ubuntu/config/scripts/deploy.sh
 
+
